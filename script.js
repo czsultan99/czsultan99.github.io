@@ -1,5 +1,5 @@
 // Create a new Audio object
-const audio = new Audio('audio.mp3'); // Replace with the path to your audio file
+const audio = new Audio('song.mp3'); // Replace with the path to your audio file
 // Set the audio to loop
 audio.loop = true;
 
@@ -34,7 +34,7 @@ window.onload = function () {
 
 // Function to play the audio
 function playAudioLoop() {
-    //audio.play();
+    audio.play();
 }
 
 function enterWebsite() {

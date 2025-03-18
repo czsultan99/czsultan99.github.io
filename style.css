@@ -242,7 +242,7 @@
 
 body {
     font-family: 'CustomFont', Arial, sans-serif;
-    background-image: url("ezgif-6-2384facde7.gif");
+    background-image: url("https://media.licdn.com/dms/image/v2/C4D12AQFEo9GqrFTpcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1650788853674?e=2147483647&v=beta&t=CHXYUkYVdn05TnbWrPvFSq0zvVUjCuhL-kipp1km20c");
     background-size: contain;
 }
 
@@ -418,8 +418,8 @@ footer p {
     background-color: #f8f9fa00;
     text-align: center;
     font-family: 'Arial', sans-serif;
-    background-image: url("ezgif-6-7fc760e7ee.gif");
-    background-size: contain;
+    background-image: url("https://www.arabamerica.com/wp-content/uploads/2019/10/Person-walking-over-the-Sahara-Desert.jpg");
+    background-size: cover;
 }
 
 #tokenomics h2 {
@@ -639,10 +639,12 @@ footer p {
 #gallery {
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 100%;
     padding: 60px 0;
     background-color: #f4f4f400;
     text-align: center;
+    background-image: url("https://img.freepik.com/premium-photo/3d-render-beautiful-arabian-desert-with-warm-gold-colors-sunset_564714-910.jpg");
+    background-size: cover;
 }
 
 #gallery h2 {
@@ -722,6 +724,10 @@ section .money2 {
     /* Ensure image is responsive */
     height: auto;
     /* Maintain aspect ratio */
+}
+
+.desktoptopic{
+    color: #ffffff;
 }
 
 /* Responsive Design for smaller screens */
