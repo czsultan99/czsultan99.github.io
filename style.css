@@ -752,7 +752,7 @@ section .money2 {
     }
     body {
         font-family: 'CustomFont', Arial, sans-serif;
-        background-image: url("street.jpg");
+        background-image: url("https://media.licdn.com/dms/image/v2/C4D12AQFEo9GqrFTpcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1650788853674?e=2147483647&v=beta&t=CHXYUkYVdn05TnbWrPvFSq0zvVUjCuhL-kipp1km20c");
         background-size: 250%;
     }
     h1 {
@@ -863,7 +863,7 @@ section .money2 {
         background-color: #f8f9fa00;
         text-align: center;
         font-family: 'Arial', sans-serif;
-        background-image: url("street2.jpeg");
+        background-image: url("https://img.freepik.com/premium-photo/3d-render-beautiful-arabian-desert-with-warm-gold-colors-sunset_564714-910.jpg");
         background-size: 250%;
     }
     .mobiletopic{
